@@ -1,0 +1,6 @@
+framework module Pods_Dlalah {
+  umbrella header "Pods-Dlalah-umbrella.h"
+
+  export *
+  module * { export * }
+}

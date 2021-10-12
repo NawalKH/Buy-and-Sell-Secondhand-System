@@ -1,0 +1,6 @@
+framework module Pods_DlalahUITests {
+  umbrella header "Pods-DlalahUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
